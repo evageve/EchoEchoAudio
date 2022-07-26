@@ -1,0 +1,42 @@
+{
+	"FictionName" : "Essai",
+	"Rooms" : [
+		{ "name" : "1",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_1.wav"
+		},
+
+		{ "name" : "2",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_2.wav"
+		},
+
+		{ "name" : "3",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_3.wav"
+		},
+
+		{ "name" : "4",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_4.wav"
+		},
+
+		{ "name" : "5",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_5.wav"
+		},
+
+		{ "name" : "6",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_6.wav"
+		},
+
+		{ "name" : "7",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_7.wav"
+		},
+
+		{ "name" : "8",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_8.wav"
+		},
+
+		{ "name" : "9",
+		  "audio_path" : "Essai_08_mai_2022/Enceinte_9.wav"
+		},
+		
+	]
+}
+

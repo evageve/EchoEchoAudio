@@ -1,0 +1,22 @@
+{
+	"FictionName" : "Essai_2",
+	"Rooms" : [
+		{ "name" : "10",
+		  "audio_path" : "Essai_08_mai_2022_2/Enceinte10.mp3"
+		},
+
+		{ "name" : "11",
+		  "audio_path" : "Essai_08_mai_2022_2/Enceinte11.mp3"
+		},
+
+		{ "name" : "12",
+		  "audio_path" : "Essai_08_mai_2022_2/Enceinte12.mp3"
+		},
+
+		{ "name" : "13",
+		  "audio_path" : "Essai_08_mai_2022_2/Enceinte13.mp3"
+		},
+		
+	]
+}
+
