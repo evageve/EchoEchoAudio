@@ -1,0 +1,64 @@
+{
+	"FictionName" : "TEST_ENCEINTES",
+	"Rooms" : [
+		{ "name" : "R1",
+		  "audio_path" : "user://R1.mp3"
+		},
+
+		{ "name" : "R2",
+		  "audio_path" : "user://R2.mp3"
+		},
+
+		{ "name" : "R3",
+		  "audio_path" : "user://R3.mp3"
+		},
+
+		{ "name" : "R4",
+		  "audio_path" : "user://R4.mp3"
+		},
+
+		{ "name" : "R5",
+		  "audio_path" : "user://R5.mp3"
+		},
+
+		{ "name" : "R6",
+		  "audio_path" : "user://R6.mp3"
+		},
+
+		{ "name" : "R7",
+		  "audio_path" : "user://R7.mp3"
+		},
+
+		{ "name" : "C1",
+		  "audio_path" : "user://C1.mp3"
+		},
+
+		{ "name" : "C2",
+		  "audio_path" : "user://C2.mp3"
+		},
+
+		{ "name" : "C3",
+		  "audio_path" : "user://C3.mp3"
+		},
+
+		{ "name" : "G1",
+		  "audio_path" : "user://G1.mp3"
+		},
+
+		{ "name" : "G2",
+		  "audio_path" : "user://G2.mp3"
+		},
+
+		{ "name" : "G3",
+		  "audio_path" : "user://G3.mp3"
+		},
+
+		{ "name" : "G4",
+		  "audio_path" : "user://G4.mp3"
+		},
+
+		{ "name" : "G5",
+		  "audio_path" : "user://G5.mp3"
+		},
+}
+
