@@ -2,6 +2,21 @@
 ####   LIRE UN FICHIER AU-DELÀ DE 2 CANAUX VIA SYNCSOUND    ####
 ######################################################
 
+######################
+#     AVANT TOUTE CHOSE    #
+
+Tools / Préférences (ou control+P)
+	En bas à gauche encadré "Show Settings"
+	2 choix possibles :
+	- Simple
+	- All
+	Il faut cliquer sur All
+	Aller dans "Interface principale"
+	Encadré "Extra Interface Modules"
+	- "Remote Control Interface" doit être cochée
+	Sauvegarder avec "Save" (en bas à droite)
+	Quitter VLC et relancer
+
 ##########################
 #    SETUP INITIAL DU SERVEUR   #
 
@@ -40,3 +55,4 @@
 	Si tout va bien, lorsque l'on clique sur le fichier, ça le télécharge.
 
 	Lorsque c'est téléchargé, c'est lancé dans VLC !
+	
