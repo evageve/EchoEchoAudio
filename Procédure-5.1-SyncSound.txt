@@ -5,17 +5,22 @@
 ######################
 #     AVANT TOUTE CHOSE    #
 
-Tools / Préférences (ou control+P)
-	En bas à gauche encadré "Show Settings"
+Ouvrir VLC
+Tools (Contrôle+P)
+	Encadré "Show Settings" (En bas à gauche)
 	2 choix possibles :
 	- Simple
 	- All
-	Il faut cliquer sur All
-	Aller dans "Interface principale"
+	==> Il faut cliquer sur "All"
+
+Aller dans "Main Iterface"
 	Encadré "Extra Interface Modules"
-	- "Remote Control Interface" doit être cochée
-	Sauvegarder avec "Save" (en bas à droite)
-	Quitter VLC et relancer
+	- "Remote Control Interface" 
+	==> Doit être cochée
+	
+Sauvegarder avec "Save" (en bas à droite)
+
+Quitter VLC et Relancer via la procédure suivante : 
 
 ##########################
 #    SETUP INITIAL DU SERVEUR   #
@@ -29,15 +34,28 @@ Tools / Préférences (ou control+P)
 	###########
 	##   LINUX   ##
 	
-	Avant de faire quoi que ce soitd d'autre, le client doit lancer VLC via la commande suivante dans le terminal :
+	Avant de faire quoi que ce soit d'autre, le client doit lancer VLC via la commande suivante dans le terminal :
 
-	vlc --extraintf='rc' --rc-host=127.0.0.1:8667
+		vlc --extraintf='rc' --rc-host=127.0.0.1:8667
 
 	###############
 	##    WINDOWS   ## 
-
-	Rien à faire de particulier !
-
+	
+	Chemin attendu classiquement par l'appli :
+	
+		C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe
+	
+	Sauf que c'est pas toujours le cas ! Dans cette situation, il faut trouver le chemin vers vlc.exe
+	Taper la commande suivante dans le terminal : 
+	
+		cd [chemin de vlc] (sans les crochets)
+	
+		==> Nous déplace au chemin de VLC
+		
+		Taper alors la commande : 
+	
+			vlc.exe --extraintf='rc' --rc-host=127.0.0.1:8667
+	
 ###############
 #   LANCEMENT   #
 
