@@ -1,0 +1,42 @@
+######################################################
+####   LIRE UN FICHIER AU-DELÀ DE 2 CANAUX VIA SYNCSOUND    ####
+######################################################
+
+##########################
+#    SETUP INITIAL DU SERVEUR   #
+
+	- Fiction chargée
+	- Serveur en écoute
+
+##############################
+#    ÉTAPE INTERMÉDIAIRE SELON OS    #
+
+	###########
+	##   LINUX   ##
+	
+	Avant de faire quoi que ce soitd d'autre, le client doit lancer VLC via la commande suivante dans le terminal :
+
+	vlc --extraintf='rc' --rc-host=127.0.0.1:8667
+
+	###############
+	##    WINDOWS   ## 
+
+	Rien à faire de particulier !
+
+###############
+#   LANCEMENT   #
+
+	################
+	##   Dans le client   ## 
+	
+	Après avoir écrit le bon chemin vers le dossier de fichiers audios
+	Cliquer sur: 
+	1. VLC
+	2. Overwrite
+	3. Connect
+
+	Ensuite, on peut choisir le fichier dans la liste.
+
+	Si tout va bien, lorsque l'on clique sur le fichier, ça le télécharge.
+
+	Lorsque c'est téléchargé, c'est lancé dans VLC !
