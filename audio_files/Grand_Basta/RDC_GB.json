@@ -1,0 +1,26 @@
+{
+	"FictionName" : "RDC_GB",
+	"Rooms" : [
+		{ "name" : "R1",
+		  "audio_path" : "user://R1.mp3"
+		},
+
+		{ "name" : "R2",
+		  "audio_path" : "user://R2.mp3"
+		},
+
+		{ "name" : "R3&R4",
+		  "audio_path" : "user://R3&R4.mp3"
+		},
+
+		{ "name" : "R5",
+		  "audio_path" : "user://R5.mp3"
+		},
+
+		{ "name" : "R6&R7",
+		  "audio_path" : "user://R6&R7.mp3"
+		},
+		
+	]
+}
+

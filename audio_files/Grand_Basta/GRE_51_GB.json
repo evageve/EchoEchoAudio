@@ -1,0 +1,10 @@
+{
+	"FictionName" : "GRE_51_GB",
+	"Rooms" : [
+		{ "name" : "GRE",
+		  "audio_path" : "user://GRE.flac"
+		},
+		
+	]
+}
+
