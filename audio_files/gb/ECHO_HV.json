@@ -1,25 +1,37 @@
 {
-    "FictionName": "ECHO_GB",
+    "FictionName": "ECHO_HV",
     "Rooms": [
+        {
+            "name": "G5",
+            "audio_path": "user://G5.mp3"
+        },
+        {
+            "name": "R7",
+            "audio_path": "user://R7.mp3"
+        },
         {
             "name": "G1",
             "audio_path": "user://G1.mp3"
+        },
+        {
+            "name": "R6",
+            "audio_path": "user://R6.mp3"
         },
         {
             "name": "R2",
             "audio_path": "user://R2.mp3"
         },
         {
-            "name": "R6&R7",
-            "audio_path": "user://R6&R7.mp3"
+            "name": "G4",
+            "audio_path": "user://G4.mp3"
+        },
+        {
+            "name": "C2",
+            "audio_path": "user://C2.mp3"
         },
         {
             "name": "G2",
             "audio_path": "user://G2.mp3"
-        },
-        {
-            "name": "C2&C3",
-            "audio_path": "user://C2&C3.mp3"
         },
         {
             "name": "G3",
@@ -30,16 +42,16 @@
             "audio_path": "user://R3&R4.mp3"
         },
         {
-            "name": "G4&G5",
-            "audio_path": "user://G4&G5.mp3"
-        },
-        {
             "name": "C1",
             "audio_path": "user://C1.mp3"
         },
         {
             "name": "R5",
             "audio_path": "user://R5.mp3"
+        },
+        {
+            "name": "C3",
+            "audio_path": "user://C3.mp3"
         },
         {
             "name": "R1",
